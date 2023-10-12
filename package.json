@@ -19,9 +19,6 @@
     "type": "git",
     "url": "git+https://github.com/xoidlabs/xoidrag.git"
   },
-  "engines": {
-    "node": "18.x"
-  },
   "packageManager": "pnpm@8.8.0",
   "scripts": {
     "dev": "vite",
