@@ -9,7 +9,7 @@
   "license": "ISC",
   "peerDependencies": {
     "xoid": "^1.0.0-beta.10",
-    "@xoid/feature": "^6",
+    "@xoid/feature": "^0.0.6",
     "scrollparent": "^2.1.0"
   },
   "peerDependenciesMeta": {
