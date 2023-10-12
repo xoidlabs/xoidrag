@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react",
+    "types": ["vite/client", "vitest/globals"],
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "declaration": true,
+    "declarationDir": "dist/ts-out",
+    "baseUrl": "./",
+    "paths": {
+      "@packages/*": ["packages/*"],
+      "@apps/*": ["apps/*"],
+      "xoidrag": ["packages/xoidrag/src"],
+      "xoidrag/*": ["packages/xoidrag/src/*"],
+      "@xoidrag/*": ["packages/*/src"],
+      "@xoid/feature": ["packages/feature"]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "xoidrag",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.tsx",
+  "author": "onurkerimov",
+  "license": "ISC",
+  "peerDependencies": {
+    "xoid": "^1.0.0-beta.10",
+    "@xoid/feature": "^6",
+    "scrollparent": "^2.1.0"
+  },
+  "peerDependenciesMeta": {
+    "scrollparent": {
+      "optional": true
+    }
+  }
+}
