@@ -1,8 +1,10 @@
 {
   "name": "@xoidrag/react",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "",
-  "main": "src/index.tsx",
+  "main": "./index.js",
+  "module": "./index.esm.js",
+  "types": "./index.d.ts",
   "author": "onurkerimov",
   "license": "ISC",
   "peerDependencies": {
