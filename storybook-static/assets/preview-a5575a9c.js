@@ -1,0 +1,2 @@
+import{j as t}from"./jsx-runtime-ffb262ed.js";import"./index-76fb7be0.js";import"./_commonjsHelpers-de833af9.js";const n={layout:"fullscreen"},a={decorators:[e=>(window.document.documentElement.setAttribute("data-theme","light"),window.localStorage.setItem("theme","light"),t.jsx(t.Fragment,{children:t.jsx(e,{})}))]};export{a as default,n as parameters};
+//# sourceMappingURL=preview-a5575a9c.js.map
