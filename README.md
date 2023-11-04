@@ -1,6 +1,6 @@
 # xoidrag
 
-**xoidrag** is an extremely customizable drag-and-drop library. It was designed for drag-and-drop behaviors that the developer wants the full control of, without copying over a whole library to their repo, or implementing the thing from scratch. It has a framework-agnsotic core. Mobile/touch devices are supported.
+**xoidrag** is an extremely customizable drag-and-drop library. It was designed for drag-and-drop behaviors that the developer wants the full control of, without copying over a whole library to their repo, or implementing the thing from scratch. It has a framework-agnostic core. Mobile/touch devices are supported. To see it in action: https://xoidlabs.github.io/xoidrag
 
 To install:
 ```
